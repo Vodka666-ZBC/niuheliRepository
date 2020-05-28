@@ -1,0 +1,7 @@
+ssh-keygen
+
+
+git add
+git commit
+git remote
+git
